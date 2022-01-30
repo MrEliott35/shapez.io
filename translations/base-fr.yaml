@@ -459,8 +459,7 @@ ingame:
               (Indiqué par le <strong>badge vert</strong>).
             - 4. Click the <strong>lock button</strong> on a building to disable
               it.
-            - 5. Once you click review, your puzzle will be validated and you
-              can publish it.
+            - 5. Lorsque vous aurez cliqué sur review, vous devrez valider votre puzzle puis il sera publié
             - 6. Upon release, <strong>all buildings will be removed</strong>
               except for the Producers and Goal Acceptors - That's the part that
               the player is supposed to figure out for themselves, after all :)
@@ -471,7 +470,7 @@ ingame:
         titleRatingDesc: Votre note m'aidera à vous faire de meilleures suggestions à l'avenir
         continueBtn: Continuer à jouer
         menuBtn: Menu
-        nextPuzzle: Next Puzzle
+        nextPuzzle: Puzzle suivant
     puzzleMetadata:
         author: Auteur
         shortKey: Short Key
